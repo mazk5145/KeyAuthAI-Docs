@@ -10,7 +10,7 @@ What is KeyAuthAI - KeyAuth Assistant API?
 - Features?: Website Status Codes [404 meaning, 505 meaning blablabla] more soon
 ```
 
-SOON
+IDK When i will do this cause no time atm.
 
 ### Credits to KeyAuth Open Source Authentication
 ```
